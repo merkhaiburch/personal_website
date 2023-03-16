@@ -1,0 +1,41 @@
+title: Merritt Khaipho-Burch
+baseURL: https://merkhaiburch.github.io/
+theme: hugo-resume
+languageCode: en-us
+PygmentsCodeFences: yes
+PygmentsCodeFencesGuessSyntax: yes
+PygmentsStyle: monokai
+enableGitInfo: no
+params:
+  address: Ithaca, NY
+  email: mbb262@cornell.edu
+  favicon: img/favicon2.ico
+  firstName: Merritt
+  google:
+    analytics:
+      trackerID: XX-123446-01
+  handles:
+    - link: https://www.linkedin.com/in/merrittkhaiphoburch/
+      name: LinkedIn
+    - link: https://github.com/merkhaiburch
+      name: GitHub
+    - link: https://twitter.com/MerKhaiBurch
+      name: Twitter
+    - link: https://scholar.google.com/citations?user=lvFMbpwAAAAJ&hl=en
+      name: Google Scholar
+  lastName: Khaipho-Burch
+  phone: 1-808-896-5760
+  profileImage: img/headshot.jpg
+  showEducation: yes
+  showExperience: yes
+  showOpenSource: yes
+  showProjects: yes
+  showPublications: yes
+  showQr: no
+  showSkills: yes
+outputs:
+  home:
+    - HTML
+    - JSON
+taxonomies:
+  tag: tags

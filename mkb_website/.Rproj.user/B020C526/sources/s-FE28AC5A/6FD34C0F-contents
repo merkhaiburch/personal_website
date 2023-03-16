@@ -1,0 +1,21 @@
+[
+    {
+        "school":"Cornell University",
+        "degree":"Doctor of Philosophy",
+        "major":"Plant Genetics",
+        "notes":"Expected Graduation: December 2023",
+        "range":"2018 - 2023"
+    },
+    {
+        "school":"South Dakota State University",
+        "degree":"Master of Science",
+        "major":"Biology",
+        "range":"2016 - 2018"
+    },
+    {
+        "school":"University of Hawaii at Hilo",
+        "degree":"Bachelor of Science",
+        "major":"Biology",
+        "range":"2012 - 2016"
+    }
+]

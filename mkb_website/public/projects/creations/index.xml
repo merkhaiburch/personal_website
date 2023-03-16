@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ongoing Projects on Merritt Khaipho-Burch</title>
+    <link>https://merkhaiburch.github.io/projects/creations/</link>
+    <description>Recent content in Ongoing Projects on Merritt Khaipho-Burch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 15:00:28 +0000</lastBuildDate><atom:link href="https://merkhaiburch.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Limited contribution of transposable elements to regulatory adaptation in maize inbreds and hybrids</title>
+      <link>https://merkhaiburch.github.io/projects/creations/te_expression/</link>
+      <pubDate>Tue, 14 Mar 2023 12:41:05 -0500</pubDate>
+      
+      <guid>https://merkhaiburch.github.io/projects/creations/te_expression/</guid>
+      <description>Project Status: Ongoing Short Summary We developed an inbred and hybrid population from the maize NAM founders and collected RNAseq data from four different tissues. We developed a RNAseq quantification pipeline optimized towards highly repetitive, complex genomes. I am currently building models to quantify the scale of TE effects towards gene expression. Abstract Transposable elements (TEs) contribute to ~85% of the maize genome and have been shown to impact genome structure and gene regulation by rearranging, adding, disrupting, or silencing endogenous promoters.</description>
+    </item>
+    
+    <item>
+      <title>Elucidating the patterns of pleiotropy and its biological relevance in maize</title>
+      <link>https://merkhaiburch.github.io/projects/creations/pleiotropy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://merkhaiburch.github.io/projects/creations/pleiotropy/</guid>
+      <description>Project Status: Complete Short Summary: Pleiotropy is not common in maize Pleiotropy in crop plants is highly constrained by evolution Pleiotropy results may vary by population and trait type Abstract Pleiotropy - when a single gene controls two or more seemingly unrelated traits - has been shown to impact genes with effects on flowering time, leaf architecture, and inflorescence morphology in maize. However, the genome-wide impact of true biological pleiotropy across all maize phenotypes is largely unknown.</description>
+    </item>
+    
+    <item>
+      <title>The perils and promise of single-gene solutions to crop yield: extraordinary claims require extraordinary evidence.</title>
+      <link>https://merkhaiburch.github.io/projects/creations/yield_project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://merkhaiburch.github.io/projects/creations/yield_project/</guid>
+      <description>Project Status: Under Revision Short Summary: Increasing crop yield is critical for global populations, yet many crop molecular biology studies are touted as yield breakthroughs without sufficient replication to evaluate field performance, slowing progress within plant breeding. Here we suggest guidelines for the community to rigorously test the effect of genes on crop yield. Abstract Agriculture relies on plant breeding and genetics to deliver the best crop varieties and agronomic practices that will deploy results across nearly a billion hectares of cropland.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+[
+    {
+        "role":"Graduate Research Assistant",
+        "company":"Cornell University",
+        "summary":"Elucidating the patterns of pleiotropy and its biological relevance in maize AND Regulatory Adaptation of Transposable Elements and Their Effect on Gene Expression in Maize and the Andropogoneae.\n- I curated and mapped 120,549 traits across two diverse maize populations to uncover the patterns of pleiotropy. Created machine learning models to describe how pleiotropic loci were biologically regulated.\n- Developed a novel gene expression quantification pipeline suited towards highly diverse genomes to test how transposable elements impact gene expression.\n- Lead a highly collaborative team to write a perspective on why genomic prediction will be the solution to increasing intrinsic crop yield.",
+        "range":"August 2018 - Present"
+    },
+    {
+        "role":"Graduate Teaching Assistant",
+        "company":"Cornell University",
+        "summary":"Taught two sections of Plant Genetics (PLBRG 2250). Responsibilities included: \n- Created lab materials (quizzes, lab lectures, slides, pre-lab videos). \n- Graded exams. \n- Ran experiments with students.",
+        "range":"January 2021 - May 2021"
+    },
+    {
+        "role":"Graduate Research Assistant",
+        "company":"South Dakota State University",
+        "summary":"Used QTL mapping to identify modifiers of the teosinte crossing barrier 1 locus in maize using the Intermated B73 x Mo17 population and identified numerous candidate loci. For my second project, I sequenced and assembled the genomes of two male gametophyte mutants and identified candidate causal loci for pollen development.",
+        "range":"July 2016 - August 2018"
+    },
+    {
+        "role":"Research Student Assistant",
+        "company":"USDA ARS PBARC",
+        "summary":"Investigating axis formation in Mediterranean fruit flies.\n- Designed and analyzed experimental data for a time series gene expression experiment on fruit-fly eggs. \n- Validated numerous RNAi experiments through gene expression assays.",
+        "range":"September 2015 - May 2016"
+    },
+    {
+        "role":"REU Research Scholar",
+        "company":"University of Nebraska Lincoln",
+        "summary":"Worked on multiple projects looking at Arabidopsis thaliana snRNA processing and miRNA biogenesis and activity. Screened and backcrossed mutants defective in pollen and embryo development.",
+        "range":"Summer 2015"
+    },
+    {
+        "role":"Laboratory Assistant",
+        "company":"Hilo Core Genetics Facility",
+        "summary":"Taught two workshops on DNA extraction for the non-science community (East Hawaii 4-H club, UH Hilo outreach day). I also ran and taught core facility users how to perform DNA extractions, design RT-PCR experiments, set up IonTorret sequencing libraries and runs, and use facility instruments.",
+        "range":"January 2015 - May 2015"
+    },
+    {
+        "role":"Molecular Laboratory Assistant",
+        "company":"University of Hawaii at Hilo",
+        "summary":"Using DNA extraction, PCR, and Sanger sequencing I amplified genetic markers to create and deliver phylogeographic trees of Metrosideros polymorpha to understand the speciation process of these trees across the Hawaiian Islands.",
+        "range":"November 2014 - June 2015"
+    },
+    {
+        "role":"REU Research Scholar",
+        "company":"South Dakota State University",
+        "summary":"Plant microbe interactions affect the biomass production of Spartina pectinata, a potential bioenergy crop.\n- Collected and analyzed data on phosphorous content in roots and shoots, arbuscular mycorrhizae prevalence, and harvested tissue for RNA sequencing.",
+        "range":"Summer 2014"
+    }
+]

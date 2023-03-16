@@ -1,0 +1,14 @@
+[
+  {
+      "grouping":"Quantitative Genetics",
+      "skills":[ "QTL Mapping","Association Mapping (mixed, general, matrix eQTL)","Genomic Prediction (SNP, expression, metabolite)","RNA and DNA Sequence Analysis","Machine Learning (random forest, gradient boosting models)"]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "R","R Studio","bash","git","windows","apple","linux"]
+  },
+  {
+      "grouping":"Code Management",
+      "skills":[ "github","Bitbucket"]
+  }
+]
